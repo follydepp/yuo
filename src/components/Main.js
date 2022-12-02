@@ -31,7 +31,7 @@ export default function Main() {
                             </div>
 
                             <p className="text-center mt-4 mx-4">Please make sure you are connected to the right network (Ethereum Mainnet) and the correct address. Please note: Once you make the purchase, you cannot undo this action.</p>
-                            <p className="text-center mx-4">We have set the gas limit to 285000 for the contract to successfully mint your NFT. We recommend that you don't lower the gas limit.</p>
+                            <p className="text-center mx-4">Please Use Metamask, Others Aren't Working We Are Working on it. Stay Tuned!!.</p>
                         </div>
                     </div>
                 </div>
